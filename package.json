@@ -7,6 +7,6 @@
   "license": "MIT",
   "private": false,
   "scripts":{
-    "node": "node no-express.js"
+    "start": "node no-express.js"
   }
 }
