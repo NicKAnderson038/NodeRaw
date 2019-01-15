@@ -1,0 +1,12 @@
+{
+  "name": "Raw-Node",
+  "version": "1.0.0",
+  "description": "Node application without using express.js",
+  "main": "no-express.js",
+  "author": "Nick Anderson",
+  "license": "MIT",
+  "private": false,
+  "scripts":{
+    "node": "node no-express.js"
+  }
+}
