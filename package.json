@@ -6,7 +6,10 @@
   "author": "Nick Anderson",
   "license": "MIT",
   "private": false,
-  "scripts":{
-    "start": "node no-express.js"
+  "scripts": {
+    "start": "nodemon no-express.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
   }
 }
